@@ -1,7 +1,7 @@
 # NXModPlayer
 Amiga MOD player for the ZX Spectrum Next
 
-![ScreenShot]https://raw.githubusercontent.com/em00k/NXModPlayer/main/screenshot.png?raw=true)
+![ScreenShot](https://raw.githubusercontent.com/em00k/NXModPlayer/main/screenshot.png?raw=true)
 
 
 NXModPlayer v1.0
