@@ -41,11 +41,13 @@ In Pattern mode :
   	7/8		Toggle pattern colours
   
 
-in the Mod Browser:
+in the Mod Browser :
+
 
 	Cursors to locate a MOD file
 	
 	Enter to load the MOD and play
+
 
 There will be bugs. Only load MODs OK? 
 
