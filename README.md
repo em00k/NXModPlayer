@@ -21,6 +21,7 @@ MODs folder for you to try out.
 Keys:
 
 In Pattern mode : 
+
 	Enter - 	Mod Browser 
 	
 	Space - 	Pause / Play 
@@ -41,7 +42,9 @@ In Pattern mode :
   
 
 in the Mod Browser:
+
 	Cursors to locate a MOD file
+	
 	Enter to load the MOD and play
 
 There will be bugs. Only load MODs OK? 
