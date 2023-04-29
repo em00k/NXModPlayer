@@ -15,10 +15,8 @@ Paula emulation & Mod Engine by 9bitcolor
 
 NXModPlayer by em00k
 
-Launch NXMODPlayer, use ther cursors to pick
-
-a *.MOD file to play. Some are included in the
-
+Launch NXMODPlayer, use ther cursors to pick 
+a *.MOD file to play. Some are included in the 
 MODs folder for you to try out. 
 
 Keys:
